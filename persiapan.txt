@@ -1,0 +1,12 @@
+link tutorial : https://www.youtube.com/watch?v=cx-uvupLmHI&list=PLfT9bKOyDMPqXIAXQAcw245eDUgGlDJjX&index=1
+
+Persiapan
+- manypixels, digunakan untuk membuat ilustrasi 
+  https://www.manypixels.co/gallery 
+  
+- materialui, digunakan untuk memilih kode warna sesuai keinginan kita
+  https://materialui.co/colors
+  
+- design kit ios ipod 13, digunakan untuk mengakses beberapa komponen desain yang akan diterapkan pada desain kita
+  https://www.figma.com/community/file/768365747273056340/iOS%2FiPadOS-13-Design-UI-Kit
+  
